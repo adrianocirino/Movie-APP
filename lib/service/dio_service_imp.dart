@@ -1,5 +1,4 @@
 import 'package:dio/dio.dart';
-import 'package:dio/src/dio.dart';
 
 import 'dio_service.dart';
 
